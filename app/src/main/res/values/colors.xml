@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#363998</color>
+    <color name="colorPrimaryDark">#363998</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="hongCanhSen">#FFB6C1</color>
+    <color name="hongnhat">#FFF0F2</color>
+    <color name="trang">#fff</color>
+    <color name="xam">#5c5253</color>
+    <color name="maudo">#E54C4C</color>
+    <color name="xamden">#808080</color>
+    <color name="den">#000</color>
+    <color name="xanhlam">#31c1d5</color>
+    <color name="xanhlamnhat">#55beaf</color>
+    <color name="xanhlamdam">#363998</color>
+</resources>
